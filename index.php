@@ -18,4 +18,6 @@ include 'Includes/header.php'?>
   
     ?>
     <button type="button" class="btn btn-dark">Click Me</button>
+
+    <a href="https://www.youtube.com" class="btn btn-danger" target="_blank">YouTube.com</a>
    <?php require 'includes/footer.php'?>
